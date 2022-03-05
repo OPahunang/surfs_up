@@ -55,4 +55,15 @@ The query is to retrieve month of June daily temperature in comparison to month 
 
 ## Summary:
 
-![]()
+
+• June 
+
+![June_Summary.png](https://github.com/OPahunang/surfs_up/blob/main/Resources/June_Summary.png)
+
+
+• December
+
+![Dec_Summary.png](https://github.com/OPahunang/surfs_up/blob/main/Resources/Dec_Summary.png)
+
+
+
