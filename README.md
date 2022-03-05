@@ -2,7 +2,7 @@
 
 ## Overview of the statistical analysis:
 
-The main purpose of this data analysis is to explore weather data in Oahu, Hawaii.  Business plan with weather data analysis need to present to investors if setting a Surf n’ Shake shop is feasible.
+The main purpose of this data analysis is to explore weather data in Oahu, Hawaii.  Business plan with weather data analysis need to present to investors if setting a Surf n’ Shake shop is feasible business model.
 
 The query is to retrieve month of June daily temperature in comparison to month of December daily temperature.
 
@@ -55,7 +55,7 @@ The query is to retrieve month of June daily temperature in comparison to month 
 
 ## Summary:
 
-In summary, June and December temperature difference is ranging from 4 to 5 Fahrenheit.  Both June and December mean temperature are in 70 to 75 range where June mean is 74.94 while Dec is 71.04. June max temperature is 85 and December max temperature is 83. June min temperature is 64 while December min temperature is 56. 
+In summary, both June and December temperature are ranging from 70 to 75 Fahrenheit.  June mean temperature is 74.94 while Dec is 71.04. June max temperature is 85 and December is 83. June min temperature is 64 while December is 56. 
 
 Additional queries for the month of June and December presented in histogram.
 
