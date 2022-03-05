@@ -55,7 +55,9 @@ The query is to retrieve month of June daily temperature in comparison to month 
 
 ## Summary:
 
+In summary, June and December temperature difference is ranging from 4 to 5 Fahrenheit.  Both June and December mean temperature are in 70 to 75 range where June mean is 74.94 while Dec is 71.04. June max temperature is 85 and December max temperature is 83. June min temperature is 64 while December min temperature is 56. 
 
+Additional queries for the month of June and December presented in histogram.
 
 • June Histogram
 
