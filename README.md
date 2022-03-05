@@ -2,7 +2,7 @@
 
 ## Overview of the statistical analysis:
 
-The main purpose of this data analysis is to explore weather data in Oahu, Hawaii to present to investors a business plan and feasibility of setting a Surf n’ Shake shop.
+The main purpose of this data analysis is to explore weather data in Oahu, Hawaii.  Business plan with weather data analysis need to present to investors if setting a Surf n’ Shake shop is feasible.
 
 The query is to retrieve month of June daily temperature in comparison to month of December daily temperature.
 
@@ -54,3 +54,5 @@ The query is to retrieve month of June daily temperature in comparison to month 
 
 
 ## Summary:
+
+![]()
